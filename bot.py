@@ -12,4 +12,3 @@ def send(msg):
     r.raise_for_status()
 
 send("✅ Bot Telegram đã kết nối thành công!")
-Đã 
